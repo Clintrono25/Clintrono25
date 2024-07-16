@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clintrono25 Android and web developer
 - 👀 I’m interested in AI
-- 🌱 I’m currently doing a course on Bloackchain
+- 🌱 I’m currently doing a course on Blockchain
 - 💞️ I’m looking to collaborate on android and web development projects
 - 📫 How to reach me ... on email: c36clinton@gmail.com or Whatsapp: +254768636181 
 
